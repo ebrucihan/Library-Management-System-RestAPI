@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "800f00e9-c0ff-4368-be5c-46b5990b0587",
-		"name": "LibraryManagementSystem",
+		"_postman_id": "43808827-40a6-4b3d-b163-e30726cbb2e2",
+		"name": "LibraryManagementSystemEbru",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "36811113"
+		"_exporter_id": "36644161"
 	},
 	"item": [
 		{
@@ -190,17 +190,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/v2/authors/4",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8080",
-							"path": [
-								"v2",
-								"authors",
-								"4"
-							]
+							"raw": ""
 						}
 					},
 					"response": []
@@ -267,16 +257,7 @@
 						"method": "PUT",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/v2/categories",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8080",
-							"path": [
-								"v2",
-								"categories"
-							]
+							"raw": ""
 						}
 					},
 					"response": []
@@ -287,17 +268,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/v2/categories/2",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8080",
-							"path": [
-								"v2",
-								"categories",
-								"2"
-							]
+							"raw": ""
 						}
 					},
 					"response": []
@@ -313,17 +284,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/v2/publishers/2",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8080",
-							"path": [
-								"v2",
-								"publishers",
-								"2"
-							]
+							"raw": ""
 						}
 					},
 					"response": []
@@ -392,17 +353,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/v2/publishers/2",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8080",
-							"path": [
-								"v2",
-								"publishers",
-								"2"
-							]
+							"raw": ""
 						}
 					},
 					"response": []
@@ -439,17 +390,7 @@
 						"method": "PUT",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/v2/bookborrowings/2",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8080",
-							"path": [
-								"v2",
-								"bookborrowings",
-								"2"
-							]
+							"raw": ""
 						}
 					},
 					"response": []
@@ -489,17 +430,7 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8080/v2/bookborrowings/2",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8080",
-							"path": [
-								"v2",
-								"bookborrowings",
-								"2"
-							]
+							"raw": ""
 						}
 					},
 					"response": []
