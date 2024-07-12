@@ -188,7 +188,20 @@
 					"name": "delete",
 					"request": {
 						"method": "DELETE",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v2/authors/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v2",
+								"authors",
+								"4"
+							]
+						}
 					},
 					"response": []
 				}
@@ -252,7 +265,19 @@
 					"name": "update",
 					"request": {
 						"method": "PUT",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v2/categories",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v2",
+								"categories"
+							]
+						}
 					},
 					"response": []
 				},
@@ -260,7 +285,20 @@
 					"name": "delete",
 					"request": {
 						"method": "DELETE",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v2/categories/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v2",
+								"categories",
+								"2"
+							]
+						}
 					},
 					"response": []
 				}
@@ -273,7 +311,20 @@
 					"name": "get",
 					"request": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v2/publishers/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v2",
+								"publishers",
+								"2"
+							]
+						}
 					},
 					"response": []
 				},
@@ -339,7 +390,20 @@
 					"name": "delete",
 					"request": {
 						"method": "DELETE",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v2/publishers/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v2",
+								"publishers",
+								"2"
+							]
+						}
 					},
 					"response": []
 				}
@@ -373,7 +437,20 @@
 					"name": "update",
 					"request": {
 						"method": "PUT",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v2/bookborrowings/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v2",
+								"bookborrowings",
+								"2"
+							]
+						}
 					},
 					"response": []
 				},
@@ -410,7 +487,20 @@
 					"name": "delete",
 					"request": {
 						"method": "DELETE",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/v2/bookborrowings/2",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"v2",
+								"bookborrowings",
+								"2"
+							]
+						}
 					},
 					"response": []
 				}
